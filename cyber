@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mon Site</title>
+  <style>
+    body { font-family: Arial; }
+    header { background: #333; color: white; padding: 10px; text-align: center; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Bienvenue sur mon site</h1>
+  </header>
+  <section>
+    <p>Ceci est une application simple en HTML.</p>
+  </section>
+</body>
+</html>
